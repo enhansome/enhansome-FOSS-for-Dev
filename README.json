@@ -1,0 +1,444 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gogs",
+          "description": "A painless self-hosted Git Service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T12:32:28Z",
+            "owner": "gogs",
+            "repo": "gogs",
+            "stars": 47735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitLab",
+          "description": "Version control for your server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T03:16:14Z",
+            "owner": "gitlabhq",
+            "repo": "gitlabhq",
+            "stars": 24534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Package Drone",
+          "description": "A package manager repository for OSGi, Java and more",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-01-23T12:33:40Z",
+            "owner": "eclipse-archived",
+            "repo": "packagedrone",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Source Code Repos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:09:50Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 188641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom",
+          "description": "Opensource,fully-featured,hackable text editor for coding.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T10:49:48Z",
+            "owner": "atom",
+            "repo": "atom",
+            "stars": 60797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brackets",
+          "description": "A modern and open-source code editor for HTML, CSS and JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-06-12T08:19:24Z",
+            "owner": "adobe",
+            "repo": "brackets",
+            "stars": 33014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeBox",
+          "description": "Open source cloud & desktop IDE",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-17T08:17:20Z",
+            "owner": "CodeboxIDE",
+            "repo": "codebox",
+            "stars": 4152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coding WebIDE",
+          "description": "The Coding WebIDE Community Edition project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-10-01T04:33:13Z",
+            "owner": "coding",
+            "repo": "WebIDE",
+            "stars": 1728
+          }
+        }
+      ],
+      "title": "IDE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzf",
+          "description": "Fuzzy find anything in your directories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T14:44:46Z",
+            "owner": "junegunn",
+            "repo": "fzf",
+            "stars": 82536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bat",
+          "description": "The fancy with syntax highlighting and effortless fuzzy searching to save development time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:39:20Z",
+            "owner": "sharkdp",
+            "repo": "bat",
+            "stars": 60220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clipboard",
+          "description": "Cut, copy, and paste anything, anywhere, anytime, all from the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-06T17:53:52Z",
+            "owner": "Slackadays",
+            "repo": "Clipboard",
+            "stars": 5875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clifm",
+          "description": "The terminal is always in your reach when managing your files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:20:57Z",
+            "owner": "leo-arch",
+            "repo": "clifm",
+            "stars": 1710
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lets chat",
+          "description": "Self-hosted chat app for small teams",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-11-15T07:51:06Z",
+            "owner": "sdelements",
+            "repo": "lets-chat",
+            "stars": 9803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh chat",
+          "description": "Chat over SSH",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-10T02:23:23Z",
+            "owner": "shazow",
+            "repo": "ssh-chat",
+            "stars": 5905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SparkleShare",
+          "description": "An Open Source collaboration and sharing tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-23T20:44:35Z",
+            "owner": "hbons",
+            "repo": "SparkleShare",
+            "stars": 4974
+          }
+        }
+      ],
+      "title": "Collaboration Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jenkins",
+          "description": "open-source continuous integration server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T19:13:12Z",
+            "owner": "jenkinsci",
+            "repo": "jenkins",
+            "stars": 26452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Travis CI",
+          "description": "Free continuous integration platform for GitHub projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-04T20:25:10Z",
+            "owner": "travis-ci",
+            "repo": "travis-ci",
+            "stars": 8487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cucumber",
+          "description": "Simple, human collaboration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-17T15:53:30Z",
+            "owner": "cucumber",
+            "repo": "common",
+            "stars": 3358
+          }
+        }
+      ],
+      "title": "CI / CD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenXPKI",
+          "description": "an enterprise-grade PKI/Trustcenter software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-08-11T03:25:05Z",
+            "owner": "openxpki",
+            "repo": "openxpki",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selefra",
+          "description": "An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-30T04:35:10Z",
+            "owner": "selefra",
+            "repo": "selefra",
+            "stars": 546
+          }
+        }
+      ],
+      "title": "Security and PKI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mantis",
+          "description": "issue tracker that provides a delicate balance between simplicity and power",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-11T18:10:58Z",
+            "owner": "mantisbt",
+            "repo": "mantisbt",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bugzilla",
+          "description": "web-based bug-tracking software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-08-05T19:28:40Z",
+            "owner": "bugzilla",
+            "repo": "bugzilla",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trac",
+          "description": "IT project management solution that enables software developers to track and address bugs, tasks, files, wiki pages, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T00:57:33Z",
+            "owner": "edgewall",
+            "repo": "trac",
+            "stars": 541
+          }
+        }
+      ],
+      "title": "Bug trackers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Phabricator",
+          "description": "an open source collection of web applications which help software companies build better software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-12T10:28:40Z",
+            "owner": "phacility",
+            "repo": "phabricator",
+            "stars": 12297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redmine",
+          "description": "a flexible project management web application written using Ruby on Rails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T19:05:08Z",
+            "owner": "redmine",
+            "repo": "redmine",
+            "stars": 6016
+          }
+        }
+      ],
+      "title": "Project management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenShift",
+          "description": "build, deploy, and manage your applications with Docker and Kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:53:09Z",
+            "owner": "openshift",
+            "repo": "origin",
+            "stars": 8676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preevy",
+          "description": "Provision preview environments for docker compose applications with minimal configuration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-06T07:38:46Z",
+            "owner": "livecycle",
+            "repo": "preevy",
+            "stars": 2224
+          }
+        }
+      ],
+      "title": "PaaS"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:25.200Z",
+    "original_repository": "tvvocold/FOSS-for-Dev",
+    "original_repository_sha": "7efadf348c361ac6955d7371a7a78fa592a8a833",
+    "enhanced_repository": "enhansome/enhansome-FOSS-for-Dev",
+    "enhanced_repository_description": null,
+    "title": "Awesome FOSS-for-Dev with stars"
+  }
+}
