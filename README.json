@@ -14,7 +14,7 @@
             "last_commit": "2026-08-06T12:32:28Z",
             "owner": "gogs",
             "repo": "gogs",
-            "stars": 47730
+            "stars": 47735
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T09:08:48Z",
+            "last_commit": "2026-08-18T09:09:25Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
-            "stars": 24531
+            "stars": 24532
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:37:36Z",
+            "last_commit": "2026-08-18T10:34:40Z",
             "owner": "microsoft",
             "repo": "vscode",
-            "stars": 188786
+            "stars": 188880
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2023-01-03T10:49:48Z",
             "owner": "atom",
             "repo": "atom",
-            "stars": 60779
+            "stars": 60778
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-08-17T03:11:26Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82552
+            "stars": 82558
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60193
+            "stars": 60199
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-05-06T17:53:52Z",
             "owner": "Slackadays",
             "repo": "Clipboard",
-            "stars": 5876
+            "stars": 5875
           }
         },
         {
@@ -177,10 +177,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T06:40:01Z",
+            "last_commit": "2026-08-18T07:36:49Z",
             "owner": "leo-arch",
             "repo": "clifm",
-            "stars": 1717
+            "stars": 1719
           }
         }
       ],
@@ -200,7 +200,7 @@
             "last_commit": "2025-11-15T07:51:06Z",
             "owner": "sdelements",
             "repo": "lets-chat",
-            "stars": 9802
+            "stars": 9801
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2026-01-10T02:23:23Z",
             "owner": "shazow",
             "repo": "ssh-chat",
-            "stars": 5905
+            "stars": 5906
           }
         },
         {
@@ -245,10 +245,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T00:29:39Z",
+            "last_commit": "2026-08-18T10:34:52Z",
             "owner": "jenkinsci",
             "repo": "jenkins",
-            "stars": 26460
+            "stars": 26467
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2024-06-04T20:25:10Z",
             "owner": "travis-ci",
             "repo": "travis-ci",
-            "stars": 8488
+            "stars": 8487
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2024-04-12T10:28:40Z",
             "owner": "phacility",
             "repo": "phabricator",
-            "stars": 12296
+            "stars": 12295
           }
         },
         {
@@ -389,7 +389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T04:20:08Z",
+            "last_commit": "2026-08-17T21:50:07Z",
             "owner": "redmine",
             "repo": "redmine",
             "stars": 6021
@@ -409,7 +409,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:16:59Z",
+            "last_commit": "2026-08-18T10:05:50Z",
             "owner": "openshift",
             "repo": "origin",
             "stars": 8677
@@ -426,7 +426,7 @@
             "last_commit": "2026-02-06T07:38:46Z",
             "owner": "livecycle",
             "repo": "preevy",
-            "stars": 2224
+            "stars": 2223
           }
         }
       ],
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:38:38.750Z",
+    "last_updated": "2026-08-18T10:35:38.771Z",
     "original_repository": "tvvocold/FOSS-for-Dev",
     "original_repository_sha": "7efadf348c361ac6955d7371a7a78fa592a8a833",
     "enhanced_repository": "enhansome/enhansome-FOSS-for-Dev",
