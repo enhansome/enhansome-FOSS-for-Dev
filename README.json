@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 16752620,
                 "language": "Go",
-                "last_commit": "2026-08-06T12:32:28Z",
+                "last_commit": "2026-08-21T12:40:15Z",
                 "owner": "gogs",
                 "repo": "gogs",
-                "stars": 47749
+                "stars": 47754
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T09:09:20Z",
+                "last_commit": "2026-08-22T09:15:04Z",
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
-                "stars": 24535
+                "stars": 24537
               }
             },
             {
@@ -66,10 +66,10 @@
                 "archived": false,
                 "id": 41881900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T10:29:17Z",
+                "last_commit": "2026-08-22T09:55:13Z",
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 189114
+                "stars": 189250
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2023-01-03T10:49:48Z",
                 "owner": "atom",
                 "repo": "atom",
-                "stars": 60779
+                "stars": 60777
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2022-06-12T08:19:24Z",
                 "owner": "adobe",
                 "repo": "brackets",
-                "stars": 33012
+                "stars": 33013
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-21T04:28:14Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82606
+                "stars": 82604
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-11T14:39:20Z",
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 60233
+                "stars": 60231
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-05-06T17:53:52Z",
                 "owner": "Slackadays",
                 "repo": "Clipboard",
-                "stars": 5877
+                "stars": 5878
               }
             },
             {
@@ -193,7 +193,7 @@
                 "archived": false,
                 "id": 122135934,
                 "language": "C",
-                "last_commit": "2026-08-21T06:23:00Z",
+                "last_commit": "2026-08-22T06:01:38Z",
                 "owner": "leo-arch",
                 "repo": "clifm",
                 "stars": 1719
@@ -233,7 +233,7 @@
                 "last_commit": "2026-01-10T02:23:23Z",
                 "owner": "shazow",
                 "repo": "ssh-chat",
-                "stars": 5908
+                "stars": 5909
               }
             },
             {
@@ -267,10 +267,10 @@
                 "archived": false,
                 "id": 1103607,
                 "language": "Java",
-                "last_commit": "2026-08-21T02:55:02Z",
+                "last_commit": "2026-08-22T00:02:39Z",
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26479
+                "stars": 26481
               }
             },
             {
@@ -300,7 +300,7 @@
                 "last_commit": "2026-05-17T15:53:30Z",
                 "owner": "cucumber",
                 "repo": "common",
-                "stars": 3357
+                "stars": 3356
               }
             }
           ],
@@ -356,7 +356,7 @@
                 "archived": false,
                 "id": 747755,
                 "language": "PHP",
-                "last_commit": "2026-08-21T10:11:22Z",
+                "last_commit": "2026-08-21T23:51:22Z",
                 "owner": "mantisbt",
                 "repo": "mantisbt",
                 "stars": 1795
@@ -423,10 +423,10 @@
                 "archived": false,
                 "id": 6768710,
                 "language": "Ruby",
-                "last_commit": "2026-08-21T07:35:08Z",
+                "last_commit": "2026-08-22T06:45:08Z",
                 "owner": "redmine",
                 "repo": "redmine",
-                "stars": 6022
+                "stars": 6021
               }
             }
           ],
@@ -445,7 +445,7 @@
                 "archived": false,
                 "id": 22442668,
                 "language": "Go",
-                "last_commit": "2026-08-21T07:07:22Z",
+                "last_commit": "2026-08-21T17:48:33Z",
                 "owner": "openshift",
                 "repo": "origin",
                 "stars": 8680
@@ -476,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:36:40.255Z",
+    "last_updated": "2026-08-22T10:30:16.728Z",
     "original_repository": "tvvocold/FOSS-for-Dev",
     "original_repository_id": 35997955,
     "original_repository_sha": "7efadf348c361ac6955d7371a7a78fa592a8a833",
