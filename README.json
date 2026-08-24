@@ -1,8 +1,53 @@
 {
   "items": [
     {
-      "description": "free for dev - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev\nfree-for-dev-zh - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev\nawesome - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "free for dev",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32484381,
+            "language": "HTML",
+            "last_commit": "2026-08-24T13:44:36Z",
+            "owner": "ripienaar",
+            "repo": "free-for-dev",
+            "stars": 134933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "free-for-dev-zh",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41664725,
+            "language": null,
+            "last_commit": "2024-04-18T07:31:19Z",
+            "owner": "tvvocold",
+            "repo": "free-for-dev-zh",
+            "stars": 1661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome",
+          "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21737465,
+            "language": null,
+            "last_commit": "2026-08-21T12:39:13Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 499514
+          }
+        },
         {
           "children": [
             {
@@ -29,7 +74,7 @@
                 "archived": false,
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-24T09:18:28Z",
+                "last_commit": "2026-08-24T12:09:13Z",
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
                 "stars": 24535
@@ -66,10 +111,10 @@
                 "archived": false,
                 "id": 41881900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:42:35Z",
+                "last_commit": "2026-08-24T14:05:52Z",
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 189363
+                "stars": 189368
               }
             },
             {
@@ -151,7 +196,7 @@
                 "last_commit": "2026-08-24T01:02:41Z",
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82630
+                "stars": 82633
               }
             },
             {
@@ -166,7 +211,7 @@
                 "last_commit": "2026-08-11T14:39:20Z",
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 60240
+                "stars": 60239
               }
             },
             {
@@ -260,6 +305,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sonarqube",
+              "description": "Put your technical debt under control",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1222504,
+                "language": "Java",
+                "last_commit": "2026-08-22T20:06:02Z",
+                "owner": "SonarSource",
+                "repo": "sonarqube",
+                "stars": 10920
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Quality"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Jenkins",
               "description": "open-source continuous integration server",
               "children": [],
@@ -312,6 +379,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Unleash",
+              "description": "Free open-source feature flag & toggle service. SDKs for all major languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24594933,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:05:39Z",
+                "owner": "Unleash",
+                "repo": "unleash",
+                "stars": 13751
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Feature management"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "OpenXPKI",
               "description": "an enterprise-grade PKI/Trustcenter software",
               "children": [],
@@ -356,7 +445,7 @@
                 "archived": false,
                 "id": 747755,
                 "language": "PHP",
-                "last_commit": "2026-08-24T06:40:09Z",
+                "last_commit": "2026-08-24T12:08:39Z",
                 "owner": "mantisbt",
                 "repo": "mantisbt",
                 "stars": 1795
@@ -470,13 +559,35 @@
           "description": null,
           "node_type": "group",
           "title": "PaaS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Log4brains",
+              "description": "Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295764802,
+                "language": "TypeScript",
+                "last_commit": "2024-12-17T16:51:30Z",
+                "owner": "thomvaill",
+                "repo": "log4brains",
+                "stars": 1566
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
         }
       ],
       "title": "Brothers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:43:08.650Z",
+    "last_updated": "2026-08-24T14:12:08.273Z",
     "original_repository": "tvvocold/FOSS-for-Dev",
     "original_repository_id": 35997955,
     "original_repository_sha": "7efadf348c361ac6955d7371a7a78fa592a8a833",

@@ -6,11 +6,11 @@ Feel free to send a PR :)
 
 # Brothers
 
-[free for dev](https://github.com/ripienaar/free-for-dev) ⭐ 134,814 | 🐛 12 | 🌐 HTML | 📅 2026-08-24 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[free for dev](https://github.com/ripienaar/free-for-dev) ⭐ 134,933 | 🐛 12 | 🌐 HTML | 📅 2026-08-24 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) ⭐ 1,658 | 🐛 3 | 📅 2024-04-18 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
+[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) ⭐ 1,661 | 🐛 3 | 📅 2024-04-18 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
 
-[awesome](https://github.com/sindresorhus/awesome) ⭐ 499,446 | 🐛 106 | 📅 2026-08-21 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 # Contents
 
@@ -35,7 +35,7 @@ Feel free to send a PR :)
 
 ## IDE
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 189,363 | 🐛 20,023 | 🌐 TypeScript | 📅 2026-08-24 - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 189,368 | 🐛 20,053 | 🌐 TypeScript | 📅 2026-08-24 - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 * [Atom](https://github.com/atom/atom) ⚠️ Archived - Opensource,fully-featured,hackable text editor for coding.
 * [Brackets](https://github.com/adobe/brackets) ⚠️ Archived -  A modern and open-source code editor for HTML, CSS and JavaScript.
 * [CodeBox](https://github.com/CodeboxIDE/codebox) ⭐ 4,153 | 🐛 153 | 🌐 JavaScript | 📅 2023-10-17 - Open source cloud & desktop IDE
@@ -44,8 +44,8 @@ Feel free to send a PR :)
 
 ## File Management
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 82,630 | 🐛 327 | 🌐 Go | 📅 2026-08-24 - Fuzzy find anything in your directories.
-* [Bat](https://github.com/sharkdp/bat) ⭐ 60,240 | 🐛 423 | 🌐 Rust | 📅 2026-08-11 - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 82,633 | 🐛 327 | 🌐 Go | 📅 2026-08-24 - Fuzzy find anything in your directories.
+* [Bat](https://github.com/sharkdp/bat) ⭐ 60,239 | 🐛 423 | 🌐 Rust | 📅 2026-08-11 - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
 * [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,884 | 🐛 26 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
 * [Clifm](https://github.com/leo-arch/clifm) ⭐ 1,721 | 🐛 26 | 🌐 C | 📅 2026-08-22 - The terminal is always in your reach when managing your files.
 
@@ -97,7 +97,7 @@ Feel free to send a PR :)
 
 ## PaaS
 
-* [OpenShift](https://github.com/openshift/origin) ⭐ 8,680 | 🐛 299 | 🌐 Go | 📅 2026-08-22 - build, deploy, and manage your applications with Docker and Kubernetes
+* [OpenShift](https://github.com/openshift/origin) ⭐ 8,680 | 🐛 302 | 🌐 Go | 📅 2026-08-22 - build, deploy, and manage your applications with Docker and Kubernetes
 * [Preevy](https://github.com/livecycle/preevy) ⭐ 2,225 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-06 - Provision preview environments for docker compose applications with minimal configuration
 * [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
 
