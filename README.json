@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "homepage": "https://free-for.dev/",
             "id": 32484381,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-28T08:34:33Z",
+            "open_issues": 11,
             "owner": "ripienaar",
             "repo": "free-for-dev",
-            "stars": 135755
+            "stars": 135787,
+            "topics": [
+              "awesome-list",
+              "free-for-developers"
+            ]
           },
           "first_seen": "2026-08-28T21:09:45.620Z"
         },
@@ -26,12 +34,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "国内免费开发工具/服务清单",
+            "homepage": null,
             "id": 41664725,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-18T07:31:19Z",
+            "open_issues": 3,
             "owner": "tvvocold",
             "repo": "free-for-dev-zh",
-            "stars": 1668
+            "stars": 1668,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:09:45.620Z"
         },
@@ -42,12 +55,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500829
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T21:09:45.620Z"
         },
@@ -60,12 +84,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The painless way to host your own Git service",
+                "homepage": "https://gogs.io",
                 "id": 16752620,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T02:52:34Z",
+                "open_issues": 1007,
                 "owner": "gogs",
                 "repo": "gogs",
-                "stars": 47782
+                "stars": 47782,
+                "topics": [
+                  "docker",
+                  "git",
+                  "go",
+                  "gogs",
+                  "mysql",
+                  "postgresql",
+                  "raspberry-pi",
+                  "self-hosted",
+                  "source-code-management",
+                  "sqlite3",
+                  "version-control"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -76,12 +117,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+                "homepage": "https://about.gitlab.com/getting-help/",
                 "id": 2500088,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T21:08:56Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:07:45Z",
+                "open_issues": 36,
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
-                "stars": 24546
+                "stars": 24546,
+                "topics": [
+                  "gitlab",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -92,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Eclipse Package Drone",
+                "homepage": "http://eclipse.org/package-drone",
                 "id": 45485923,
                 "language": "Java",
+                "license": "EPL-1.0",
                 "last_commit": "2021-01-23T12:33:40Z",
+                "open_issues": 55,
                 "owner": "eclipse-archived",
                 "repo": "packagedrone",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -115,12 +170,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual Studio Code",
+                "homepage": "https://code.visualstudio.com",
                 "id": 41881900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T21:07:23Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:28:20Z",
+                "open_issues": 20178,
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 189754
+                "stars": 189757,
+                "topics": [
+                  "editor",
+                  "electron",
+                  "microsoft",
+                  "typescript",
+                  "visual-studio-code"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -131,12 +197,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":atom: The hackable text editor",
+                "homepage": "https://atom.io",
                 "id": 3228505,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-03T10:49:48Z",
+                "open_issues": 992,
                 "owner": "atom",
                 "repo": "atom",
-                "stars": 60768
+                "stars": 60767,
+                "topics": [
+                  "atom",
+                  "editor",
+                  "electron",
+                  "javascript",
+                  "linux",
+                  "macos",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -147,12 +226,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open source code editor for the web, written in JavaScript, HTML and CSS.",
+                "homepage": "http://brackets.io",
                 "id": 2935735,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-12T08:19:24Z",
+                "open_issues": 2774,
                 "owner": "adobe",
                 "repo": "brackets",
-                "stars": 33009
+                "stars": 33008,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -163,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source cloud & desktop IDE",
+                "homepage": "https://www.codebox.io",
                 "id": 12231467,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-17T08:17:20Z",
+                "open_issues": 153,
                 "owner": "CodeboxIDE",
                 "repo": "codebox",
-                "stars": 4153
+                "stars": 4153,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -179,12 +268,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Coding WebIDE Community Edition",
+                "homepage": "https://ide.coding.net/community",
                 "id": 68070066,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-10-01T04:33:13Z",
+                "open_issues": 84,
                 "owner": "coding",
                 "repo": "WebIDE",
-                "stars": 1727
+                "stars": 1727,
+                "topics": [
+                  "docker",
+                  "ide",
+                  "java-8",
+                  "web-ide"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -202,12 +301,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":cherry_blossom: A command-line fuzzy finder",
+                "homepage": "https://junegunn.github.io/fzf/",
                 "id": 13807606,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T00:07:09Z",
+                "open_issues": 327,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82700
+                "stars": 82702,
+                "topics": [
+                  "bash",
+                  "cli",
+                  "fish",
+                  "fzf",
+                  "go",
+                  "neovim",
+                  "tmux",
+                  "unix",
+                  "vim",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -218,12 +333,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cat(1) clone with wings.",
+                "homepage": null,
                 "id": 130464961,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T14:39:20Z",
+                "open_issues": 424,
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 60287
+                "stars": 60289,
+                "topics": [
+                  "cli",
+                  "command-line",
+                  "git",
+                  "hacktoberfest",
+                  "rust",
+                  "syntax-highlighting",
+                  "terminal",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -234,12 +363,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager",
+                "homepage": "https://getclipboard.app/",
                 "id": 568268698,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-06T17:53:52Z",
+                "open_issues": 26,
                 "owner": "Slackadays",
                 "repo": "Clipboard",
-                "stars": 5891
+                "stars": 5891,
+                "topics": [
+                  "bash",
+                  "cli",
+                  "clipboard",
+                  "clipboard-manager",
+                  "cmd",
+                  "collaborate",
+                  "command-line",
+                  "console",
+                  "cpp",
+                  "cross-platform",
+                  "hacktoberfest",
+                  "learn",
+                  "library",
+                  "linux",
+                  "macos",
+                  "productivity",
+                  "shell",
+                  "terminal",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -250,12 +404,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💾 The shell-like, command-line terminal file manager",
+                "homepage": "https://github.com/leo-arch/clifm/wiki",
                 "id": 122135934,
                 "language": "C",
-                "last_commit": "2026-08-28T20:57:02Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:26:56Z",
+                "open_issues": 26,
                 "owner": "leo-arch",
                 "repo": "clifm",
-                "stars": 1722
+                "stars": 1722,
+                "topics": [
+                  "autosuggestion",
+                  "batch-rename",
+                  "c",
+                  "cli",
+                  "command-line",
+                  "console",
+                  "developer-tools",
+                  "file-browser",
+                  "file-manager",
+                  "file-preview",
+                  "filemanager",
+                  "fzf",
+                  "plugins",
+                  "shell",
+                  "syntax-highlighting",
+                  "terminal",
+                  "text-based"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -273,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Self-hosted chat app for small teams",
+                "homepage": "http://sdelements.github.io/lets-chat",
                 "id": 3673976,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-15T07:51:06Z",
+                "open_issues": 276,
                 "owner": "sdelements",
                 "repo": "lets-chat",
-                "stars": 9799
+                "stars": 9799,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -289,12 +471,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chat over SSH.",
+                "homepage": "https://shazow.net/posts/ssh-how-does-it-even/",
                 "id": 27796175,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-01-10T02:23:23Z",
+                "open_issues": 54,
                 "owner": "shazow",
                 "repo": "ssh-chat",
-                "stars": 5910
+                "stars": 5910,
+                "topics": [
+                  "chat",
+                  "server",
+                  "ssh",
+                  "ssh-chat"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -305,12 +497,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows",
+                "homepage": "https://sparkleshare.org",
                 "id": 956732,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T15:02:33Z",
+                "open_issues": 69,
                 "owner": "hbons",
                 "repo": "SparkleShare",
-                "stars": 4980
+                "stars": 4980,
+                "topics": [
+                  "arch",
+                  "backup",
+                  "cloud-storage",
+                  "collaboration",
+                  "debian",
+                  "decentralized",
+                  "dropbox",
+                  "fedora",
+                  "file-sharing",
+                  "git",
+                  "git-lfs",
+                  "gnome",
+                  "gtk",
+                  "linux-desktop",
+                  "project-management",
+                  "rust-lang",
+                  "self-hosted",
+                  "sync",
+                  "ubuntu",
+                  "version-control"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -328,12 +546,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Continuous Inspection",
+                "homepage": "http://www.sonarqube.org",
                 "id": 1222504,
                 "language": "Java",
-                "last_commit": "2026-08-28T11:07:36Z",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-08-28T22:00:03Z",
+                "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10936
+                "stars": 10937,
+                "topics": [
+                  "code-quality",
+                  "sonarqube",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -351,12 +578,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jenkins automation server",
+                "homepage": "https://www.jenkins.io",
                 "id": 1103607,
                 "language": "Java",
-                "last_commit": "2026-08-27T19:36:15Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:39:56Z",
+                "open_issues": 3612,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26512
+                "stars": 26513,
+                "topics": [
+                  "cicd",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "devops",
+                  "groovy",
+                  "hacktoberfest",
+                  "java",
+                  "jenkins",
+                  "pipelines-as-code"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -367,12 +610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free continuous integration platform for GitHub projects.",
+                "homepage": "https://travis-ci.org",
                 "id": 1420493,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-04T20:25:10Z",
+                "open_issues": 126,
                 "owner": "travis-ci",
                 "repo": "travis-ci",
-                "stars": 8486
+                "stars": 8486,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -383,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A home for issues that are common to multiple cucumber repositories",
+                "homepage": "https://cucumber.io/docs",
                 "id": 37796696,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-17T15:53:30Z",
+                "open_issues": 44,
                 "owner": "cucumber",
                 "repo": "common",
-                "stars": 3357
+                "stars": 3357,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -406,12 +659,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source feature management platform",
+                "homepage": "https://www.getunleash.io",
                 "id": 24594933,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T16:57:42Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T01:33:47Z",
+                "open_issues": 51,
                 "owner": "Unleash",
                 "repo": "unleash",
-                "stars": 13769
+                "stars": 13769,
+                "topics": [
+                  "activation-strategies",
+                  "collaboration",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "devops",
+                  "devtool",
+                  "experiments",
+                  "feature",
+                  "feature-flags",
+                  "feature-toggle",
+                  "feature-toggles",
+                  "feature-toggling",
+                  "hacktoberfest",
+                  "integration",
+                  "platform-engineering",
+                  "sdk",
+                  "toggles",
+                  "unleash",
+                  "variants"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -429,12 +707,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenXPKI Code",
+                "homepage": "www.openxpki.org",
                 "id": 2316088,
                 "language": "Perl",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T03:25:05Z",
+                "open_issues": 73,
                 "owner": "openxpki",
                 "repo": "openxpki",
-                "stars": 690
+                "stars": 690,
+                "topics": [
+                  "enterprise-software",
+                  "hsm-support",
+                  "opensource-ca",
+                  "opensource-pki",
+                  "pki",
+                  "workflow-based",
+                  "x509"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -445,12 +736,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).",
+                "homepage": "https://www.selefra.io",
                 "id": 617067663,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2023-08-30T04:35:10Z",
+                "open_issues": 0,
                 "owner": "selefra",
                 "repo": "selefra",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "chatgpt",
+                  "cloud",
+                  "cspm",
+                  "devops",
+                  "finops",
+                  "gcp",
+                  "golang",
+                  "google",
+                  "infrastructure-as-code",
+                  "kubernetes",
+                  "openai",
+                  "policy-as-code",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -468,12 +780,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mantis Bug Tracker (MantisBT)",
+                "homepage": "https://mantisbt.org",
                 "id": 747755,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2026-08-28T19:21:15Z",
+                "open_issues": 82,
                 "owner": "mantisbt",
                 "repo": "mantisbt",
-                "stars": 1797
+                "stars": 1797,
+                "topics": [
+                  "bugtracker",
+                  "hacktoberfest",
+                  "mantisbt",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -484,12 +806,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&format=__default__ . Main website:",
+                "homepage": "http://www.bugzilla.org",
                 "id": 17670458,
                 "language": "Perl",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-28T05:51:19Z",
+                "open_issues": 24,
                 "owner": "bugzilla",
                 "repo": "bugzilla",
-                "stars": 852
+                "stars": 852,
+                "topics": [
+                  "perl"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -500,12 +829,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trac is an enhanced wiki and issue tracking system for software development projects (mirror)",
+                "homepage": "https://trac.edgewall.org/",
                 "id": 615096,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T21:13:12Z",
+                "open_issues": 1,
                 "owner": "edgewall",
                 "repo": "trac",
-                "stars": 541
+                "stars": 541,
+                "topics": [
+                  "bsd-license",
+                  "bug-tracker",
+                  "issue-tracker",
+                  "project-manager",
+                  "python",
+                  "wiki"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -523,12 +864,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Effective June 1, 2021: Phabricator is no longer actively maintained.",
+                "homepage": "http://phacility.com/phabricator/",
                 "id": 1280180,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-12T10:28:40Z",
+                "open_issues": 3,
                 "owner": "phacility",
                 "repo": "phabricator",
-                "stars": 12298
+                "stars": 12298,
+                "topics": [
+                  "git",
+                  "hg",
+                  "phabricator",
+                  "php",
+                  "svn"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -539,12 +891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp",
+                "homepage": "https://www.redmine.org",
                 "id": 6768710,
                 "language": "Ruby",
-                "last_commit": "2026-08-28T05:25:08Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:20:07Z",
+                "open_issues": 3,
                 "owner": "redmine",
                 "repo": "redmine",
-                "stars": 6023
+                "stars": 6023,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -562,12 +919,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conformance test suite for OpenShift",
+                "homepage": "http://www.openshift.org",
                 "id": 22442668,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:21:36Z",
+                "open_issues": 314,
                 "owner": "openshift",
                 "repo": "origin",
-                "stars": 8680
+                "stars": 8680,
+                "topics": [
+                  "caas",
+                  "ci-cd",
+                  "containers",
+                  "continuous-delivery",
+                  "continuous-deployment",
+                  "continuous-integration",
+                  "devops",
+                  "go",
+                  "kubernetes",
+                  "openshift",
+                  "openshift-origin",
+                  "paas"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             },
@@ -578,12 +953,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quickly deploy preview environments to the cloud!",
+                "homepage": "https://preevy.dev",
                 "id": 605549525,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-06T07:38:46Z",
+                "open_issues": 51,
                 "owner": "livecycle",
                 "repo": "preevy",
-                "stars": 2226
+                "stars": 2226,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "aws",
+                  "cli",
+                  "devops",
+                  "docker",
+                  "docker-compose",
+                  "ephemeral-environments",
+                  "hacktoberfest",
+                  "pr-environments",
+                  "preview-environment"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -601,12 +993,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✍️ Architecture Decision Records (ADR) management and publication tool",
+                "homepage": "https://thomvaill.github.io/log4brains/",
                 "id": 295764802,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-17T16:51:30Z",
+                "open_issues": 57,
                 "owner": "thomvaill",
                 "repo": "log4brains",
-                "stars": 1570
+                "stars": 1570,
+                "topics": [
+                  "adr",
+                  "architecture",
+                  "architecture-decision-record",
+                  "architecture-decision-records",
+                  "developer-tools",
+                  "docs-as-code",
+                  "documentation",
+                  "generator",
+                  "knowledge-base",
+                  "markdown",
+                  "static-site-generator",
+                  "tool",
+                  "tooling"
+                ]
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
             }
@@ -620,15 +1031,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:09:45.620Z",
+    "last_updated": "2026-08-29T04:31:09.336Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A hub of Free and open-source software for developers",
+      "homepage": "https://zhaodao.ai/pick/9",
       "id": 35997955,
       "language": null,
+      "license": null,
       "last_commit": "2024-04-24T07:50:10Z",
+      "open_issues": 8,
       "owner": "tvvocold",
       "repo": "FOSS-for-Dev",
-      "stars": 1408
+      "stars": 1407,
+      "topics": []
     },
     "original_repository_sha": "7efadf348c361ac6955d7371a7a78fa592a8a833",
     "enhanced_repository": "enhansome/enhansome-FOSS-for-Dev",
