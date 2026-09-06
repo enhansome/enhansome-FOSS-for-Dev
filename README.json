@@ -16,10 +16,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-09-04T05:12:24Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "ripienaar",
             "repo": "free-for-dev",
-            "stars": 136608,
+            "stars": 136703,
             "topics": [
               "awesome-list",
               "free-for-developers"
@@ -43,7 +43,7 @@
             "open_issues": 3,
             "owner": "tvvocold",
             "repo": "free-for-dev-zh",
-            "stars": 1681,
+            "stars": 1683,
             "topics": []
           },
           "first_seen": "2026-08-28T21:09:45.620Z"
@@ -64,7 +64,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 503175,
+            "stars": 503497,
             "topics": [
               "awesome",
               "awesome-list",
@@ -90,7 +90,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-26T02:52:34Z",
-                "open_issues": 1012,
+                "open_issues": 1010,
                 "owner": "gogs",
                 "repo": "gogs",
                 "stars": 47807,
@@ -122,7 +122,7 @@
                 "id": 2500088,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T12:08:24Z",
+                "last_commit": "2026-09-06T09:07:18Z",
                 "open_issues": 36,
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
@@ -175,11 +175,11 @@
                 "id": 41881900,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T12:27:21Z",
-                "open_issues": 20602,
+                "last_commit": "2026-09-06T13:24:47Z",
+                "open_issues": 20648,
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 190886,
+                "stars": 190954,
                 "topics": [
                   "editor",
                   "electron",
@@ -235,7 +235,7 @@
                 "open_issues": 2774,
                 "owner": "adobe",
                 "repo": "brackets",
-                "stars": 32998,
+                "stars": 32997,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
@@ -306,11 +306,11 @@
                 "id": 13807606,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T01:07:45Z",
-                "open_issues": 330,
+                "last_commit": "2026-09-06T10:36:45Z",
+                "open_issues": 327,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 82825,
+                "stars": 82839,
                 "topics": [
                   "bash",
                   "cli",
@@ -339,10 +339,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T19:10:30Z",
-                "open_issues": 424,
+                "open_issues": 426,
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 60373,
+                "stars": 60376,
                 "topics": [
                   "cli",
                   "command-line",
@@ -372,7 +372,7 @@
                 "open_issues": 26,
                 "owner": "Slackadays",
                 "repo": "Clipboard",
-                "stars": 5895,
+                "stars": 5896,
                 "topics": [
                   "bash",
                   "cli",
@@ -409,7 +409,7 @@
                 "id": 122135934,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T19:39:10Z",
+                "last_commit": "2026-09-06T03:38:56Z",
                 "open_issues": 26,
                 "owner": "leo-arch",
                 "repo": "clifm",
@@ -459,7 +459,7 @@
                 "open_issues": 276,
                 "owner": "sdelements",
                 "repo": "lets-chat",
-                "stars": 9798,
+                "stars": 9797,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
@@ -480,7 +480,7 @@
                 "open_issues": 54,
                 "owner": "shazow",
                 "repo": "ssh-chat",
-                "stars": 5909,
+                "stars": 5908,
                 "topics": [
                   "chat",
                   "server",
@@ -555,7 +555,7 @@
                 "open_issues": 0,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10954,
+                "stars": 10955,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -583,11 +583,11 @@
                 "id": 1103607,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-05T13:14:05Z",
-                "open_issues": 3612,
+                "last_commit": "2026-09-06T08:26:44Z",
+                "open_issues": 3613,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26529,
+                "stars": 26532,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -619,7 +619,7 @@
                 "open_issues": 126,
                 "owner": "travis-ci",
                 "repo": "travis-ci",
-                "stars": 8485,
+                "stars": 8484,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
@@ -665,10 +665,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-05T01:10:49Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "Unleash",
                 "repo": "unleash",
-                "stars": 13785,
+                "stars": 13786,
                 "topics": [
                   "activation-strategies",
                   "collaboration",
@@ -716,7 +716,7 @@
                 "open_issues": 73,
                 "owner": "openxpki",
                 "repo": "openxpki",
-                "stars": 692,
+                "stars": 693,
                 "topics": [
                   "enterprise-software",
                   "hsm-support",
@@ -785,7 +785,7 @@
                 "id": 747755,
                 "language": "PHP",
                 "license": null,
-                "last_commit": "2026-09-03T23:03:54Z",
+                "last_commit": "2026-09-06T08:55:51Z",
                 "open_issues": 82,
                 "owner": "mantisbt",
                 "repo": "mantisbt",
@@ -811,8 +811,8 @@
                 "id": 17670458,
                 "language": "Perl",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-04T12:39:35Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-06T11:01:49Z",
+                "open_issues": 23,
                 "owner": "bugzilla",
                 "repo": "bugzilla",
                 "stars": 855,
@@ -873,7 +873,7 @@
                 "open_issues": 3,
                 "owner": "phacility",
                 "repo": "phabricator",
-                "stars": 12299,
+                "stars": 12297,
                 "topics": [
                   "git",
                   "hg",
@@ -896,7 +896,7 @@
                 "id": 6768710,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T07:35:09Z",
+                "last_commit": "2026-09-06T07:10:08Z",
                 "open_issues": 3,
                 "owner": "redmine",
                 "repo": "redmine",
@@ -1031,7 +1031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:21:32.383Z",
+    "last_updated": "2026-09-06T13:31:26.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A hub of Free and open-source software for developers",
