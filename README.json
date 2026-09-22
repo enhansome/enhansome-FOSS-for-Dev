@@ -15,11 +15,11 @@
             "id": 32484381,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-20T19:44:21Z",
+            "last_commit": "2026-09-22T14:26:21Z",
             "open_issues": 11,
             "owner": "ripienaar",
             "repo": "free-for-dev",
-            "stars": 137937,
+            "stars": 137987,
             "topics": [
               "awesome-list",
               "free-for-developers"
@@ -43,7 +43,7 @@
             "open_issues": 3,
             "owner": "tvvocold",
             "repo": "free-for-dev-zh",
-            "stars": 1690,
+            "stars": 1691,
             "topics": []
           },
           "first_seen": "2026-08-28T21:09:45.620Z"
@@ -64,7 +64,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 508519,
+            "stars": 508871,
             "topics": [
               "awesome",
               "awesome-list",
@@ -93,7 +93,7 @@
                 "open_issues": 1012,
                 "owner": "gogs",
                 "repo": "gogs",
-                "stars": 47818,
+                "stars": 47819,
                 "topics": [
                   "docker",
                   "git",
@@ -122,11 +122,11 @@
                 "id": 2500088,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T15:23:31Z",
+                "last_commit": "2026-09-22T12:08:18Z",
                 "open_issues": 36,
                 "owner": "gitlabhq",
                 "repo": "gitlabhq",
-                "stars": 24546,
+                "stars": 24544,
                 "topics": [
                   "gitlab",
                   "rails",
@@ -175,11 +175,11 @@
                 "id": 41881900,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T16:05:06Z",
-                "open_issues": 21260,
+                "last_commit": "2026-09-22T14:35:36Z",
+                "open_issues": 21235,
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 192754,
+                "stars": 192784,
                 "topics": [
                   "editor",
                   "electron",
@@ -206,7 +206,7 @@
                 "open_issues": 993,
                 "owner": "atom",
                 "repo": "atom",
-                "stars": 60735,
+                "stars": 60736,
                 "topics": [
                   "atom",
                   "editor",
@@ -235,7 +235,7 @@
                 "open_issues": 2774,
                 "owner": "adobe",
                 "repo": "brackets",
-                "stars": 32992,
+                "stars": 32991,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
@@ -310,7 +310,7 @@
                 "open_issues": 330,
                 "owner": "junegunn",
                 "repo": "fzf",
-                "stars": 83170,
+                "stars": 83193,
                 "topics": [
                   "bash",
                   "cli",
@@ -342,7 +342,7 @@
                 "open_issues": 518,
                 "owner": "sharkdp",
                 "repo": "bat",
-                "stars": 60527,
+                "stars": 60541,
                 "topics": [
                   "cli",
                   "command-line",
@@ -372,7 +372,7 @@
                 "open_issues": 26,
                 "owner": "Slackadays",
                 "repo": "Clipboard",
-                "stars": 5905,
+                "stars": 5906,
                 "topics": [
                   "bash",
                   "cli",
@@ -551,11 +551,11 @@
                 "id": 1222504,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-18T20:08:33Z",
+                "last_commit": "2026-09-21T20:08:50Z",
                 "open_issues": 0,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11004,
+                "stars": 11009,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -583,11 +583,11 @@
                 "id": 1103607,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-21T06:00:29Z",
-                "open_issues": 3622,
+                "last_commit": "2026-09-22T06:06:50Z",
+                "open_issues": 3613,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26574,
+                "stars": 26577,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -664,11 +664,11 @@
                 "id": 24594933,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T16:13:57Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-22T14:04:36Z",
+                "open_issues": 39,
                 "owner": "Unleash",
                 "repo": "unleash",
-                "stars": 13819,
+                "stars": 13821,
                 "topics": [
                   "activation-strategies",
                   "collaboration",
@@ -716,7 +716,7 @@
                 "open_issues": 74,
                 "owner": "openxpki",
                 "repo": "openxpki",
-                "stars": 694,
+                "stars": 695,
                 "topics": [
                   "enterprise-software",
                   "hsm-support",
@@ -789,7 +789,7 @@
                 "open_issues": 89,
                 "owner": "mantisbt",
                 "repo": "mantisbt",
-                "stars": 1805,
+                "stars": 1806,
                 "topics": [
                   "bugtracker",
                   "hacktoberfest",
@@ -815,7 +815,7 @@
                 "open_issues": 23,
                 "owner": "bugzilla",
                 "repo": "bugzilla",
-                "stars": 859,
+                "stars": 860,
                 "topics": [
                   "perl"
                 ]
@@ -873,7 +873,7 @@
                 "open_issues": 3,
                 "owner": "phacility",
                 "repo": "phabricator",
-                "stars": 12292,
+                "stars": 12291,
                 "topics": [
                   "git",
                   "hg",
@@ -896,11 +896,11 @@
                 "id": 6768710,
                 "language": "Ruby",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T05:40:11Z",
+                "last_commit": "2026-09-21T22:10:08Z",
                 "open_issues": 3,
                 "owner": "redmine",
                 "repo": "redmine",
-                "stars": 6036,
+                "stars": 6038,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:09:45.620Z"
@@ -925,7 +925,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T10:34:34Z",
-                "open_issues": 322,
+                "open_issues": 323,
                 "owner": "openshift",
                 "repo": "origin",
                 "stars": 8687,
@@ -1031,7 +1031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:22:22.486Z",
+    "last_updated": "2026-09-22T14:36:39.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A hub of Free and open-source software for developers",
