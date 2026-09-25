@@ -6,11 +6,11 @@ Feel free to send a PR :)
 
 # Brothers
 
-[free for dev](https://github.com/ripienaar/free-for-dev) ⭐ 138,157 | 🐛 11 | 🌐 HTML | 📅 2026-09-24 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[free for dev](https://github.com/ripienaar/free-for-dev) ⭐ 138,437 | 🐛 11 | 🌐 HTML | 📅 2026-09-25 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 [free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) ⭐ 1,693 | 🐛 3 | 📅 2024-04-18 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
 
-[awesome](https://github.com/sindresorhus/awesome) ⭐ 509,759 | 🐛 106 | 📅 2026-09-02 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[awesome](https://github.com/sindresorhus/awesome) ⭐ 510,272 | 🐛 107 | 📅 2026-09-02 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 # Contents
 
@@ -29,25 +29,25 @@ Feel free to send a PR :)
 
 ## Source Code Repos
 
-* [Gogs](https://github.com/gogits/gogs) ⭐ 47,830 | 🐛 1,013 | 🌐 Go | 📅 2026-09-12  - A painless self-hosted Git Service
-* [GitLab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,547 | 🐛 36 | 🌐 Ruby | 📅 2026-09-24 - Version control for your server
+* [Gogs](https://github.com/gogits/gogs) ⭐ 47,834 | 🐛 1,013 | 🌐 Go | 📅 2026-09-12  - A painless self-hosted Git Service
+* [GitLab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,546 | 🐛 36 | 🌐 Ruby | 📅 2026-09-25 - Version control for your server
 * [Package Drone](https://github.com/eclipse/packagedrone) ⚠️ Archived - A package manager repository for OSGi, Java and more
 
 ## IDE
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 192,854 | 🐛 21,209 | 🌐 TypeScript | 📅 2026-09-24 - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 192,889 | 🐛 21,165 | 🌐 TypeScript | 📅 2026-09-25 - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 * [Atom](https://github.com/atom/atom) ⚠️ Archived - Opensource,fully-featured,hackable text editor for coding.
 * [Brackets](https://github.com/adobe/brackets) ⚠️ Archived -  A modern and open-source code editor for HTML, CSS and JavaScript.
-* [CodeBox](https://github.com/CodeboxIDE/codebox) ⭐ 4,151 | 🐛 153 | 🌐 JavaScript | 📅 2023-10-17 - Open source cloud & desktop IDE
+* [CodeBox](https://github.com/CodeboxIDE/codebox) ⭐ 4,152 | 🐛 153 | 🌐 JavaScript | 📅 2023-10-17 - Open source cloud & desktop IDE
 * [Coding WebIDE](https://github.com/Coding/WebIDE) ⭐ 1,727 | 🐛 84 | 🌐 Shell | 📅 2020-10-01 - The Coding WebIDE Community Edition project
 * [VsCodium](https://vscodium.com/) - Fully FOSS alternative to vscode
 
 ## File Management
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 83,233 | 🐛 331 | 🌐 Go | 📅 2026-09-21 - Fuzzy find anything in your directories.
-* [Bat](https://github.com/sharkdp/bat) ⭐ 60,560 | 🐛 518 | 🌐 Rust | 📅 2026-09-22 - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
-* [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,909 | 🐛 26 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
-* [Clifm](https://github.com/leo-arch/clifm) ⭐ 1,725 | 🐛 26 | 🌐 C | 📅 2026-09-19 - The terminal is always in your reach when managing your files.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 83,242 | 🐛 331 | 🌐 Go | 📅 2026-09-21 - Fuzzy find anything in your directories.
+* [Bat](https://github.com/sharkdp/bat) ⭐ 60,574 | 🐛 519 | 🌐 Rust | 📅 2026-09-22 - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
+* [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,911 | 🐛 26 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
+* [Clifm](https://github.com/leo-arch/clifm) ⭐ 1,726 | 🐛 26 | 🌐 C | 📅 2026-09-19 - The terminal is always in your reach when managing your files.
 
 ## Collaboration Tools
 
@@ -60,25 +60,25 @@ Feel free to send a PR :)
 
 ## Code Quality
 
-* [sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 11,021 | 🐛 0 | 🌐 Java | 📅 2026-09-23 - Put your technical debt under control
+* [sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 11,024 | 🐛 1 | 🌐 Java | 📅 2026-09-25 - Put your technical debt under control
 * [gerrit](https://gerrit.googlesource.com/) - Code Review
 * [Codecov](https://codecov.io/) - Continuous Code Coverage
 
 ## CI / CD
 
-* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,582 | 🐛 3,614 | 🌐 Java | 📅 2026-09-23 - open-source continuous integration server
+* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,589 | 🐛 3,618 | 🌐 Java | 📅 2026-09-25 - open-source continuous integration server
 * [Travis CI](https://github.com/travis-ci/travis-ci) ⭐ 8,484 | 🐛 126 | 📅 2024-06-04 - Free continuous integration platform for GitHub projects
-* [cucumber](https://github.com/cucumber/cucumber) ⭐ 3,353 | 🐛 44 | 📅 2026-05-17 - Simple, human collaboration
+* [cucumber](https://github.com/cucumber/cucumber) ⭐ 3,354 | 🐛 44 | 📅 2026-05-17 - Simple, human collaboration
 * [drone.io](https://drone.io) - Open Source CI platform
 * [Gitlab CI](https://docs.gitlab.com/ee/ci/) - Gitlab Ci
 
 ## Feature management
 
-* [Unleash](https://github.com/Unleash/unleash) ⭐ 13,824 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-24 - Free open-source feature flag & toggle service. SDKs for all major languages.
+* [Unleash](https://github.com/Unleash/unleash) ⭐ 13,830 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-25 - Free open-source feature flag & toggle service. SDKs for all major languages.
 
 ## Security and PKI
 
-* [OpenXPKI](https://github.com/openxpki/openxpki) ⭐ 697 | 🐛 74 | 🌐 Perl | 📅 2026-08-11 - an enterprise-grade PKI/Trustcenter software
+* [OpenXPKI](https://github.com/openxpki/openxpki) ⭐ 698 | 🐛 74 | 🌐 Perl | 📅 2026-08-11 - an enterprise-grade PKI/Trustcenter software
 * [Selefra](https://github.com/selefra/selefra) ⭐ 545 | 🐛 0 | 🌐 Go | 📅 2023-08-30 - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 * [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
 
@@ -92,18 +92,18 @@ Feel free to send a PR :)
 ## Project management
 
 * [Phabricator](https://github.com/phacility/phabricator) ⭐ 12,292 | 🐛 3 | 🌐 PHP | 📅 2024-04-12 - an open source collection of web applications which help software companies build better software
-* [Redmine](https://github.com/redmine/redmine) ⭐ 6,040 | 🐛 3 | 🌐 Ruby | 📅 2026-09-24 - a flexible project management web application written using Ruby on Rails
+* [Redmine](https://github.com/redmine/redmine) ⭐ 6,040 | 🐛 3 | 🌐 Ruby | 📅 2026-09-25 - a flexible project management web application written using Ruby on Rails
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
-* [OpenShift](https://github.com/openshift/origin) ⭐ 8,688 | 🐛 327 | 🌐 Go | 📅 2026-09-24 - build, deploy, and manage your applications with Docker and Kubernetes
+* [OpenShift](https://github.com/openshift/origin) ⭐ 8,688 | 🐛 325 | 🌐 Go | 📅 2026-09-25 - build, deploy, and manage your applications with Docker and Kubernetes
 * [Preevy](https://github.com/livecycle/preevy) ⭐ 2,230 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-06 - Provision preview environments for docker compose applications with minimal configuration
 * [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
 
 ## Documentation
 
-* [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,594 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
+* [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,596 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website
 
 ## Backend
 
@@ -129,4 +129,4 @@ Feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
