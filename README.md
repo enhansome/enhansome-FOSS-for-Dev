@@ -6,11 +6,11 @@ Feel free to send a PR :)
 
 # Brothers
 
-[free for dev](https://github.com/ripienaar/free-for-dev) ⭐ 142,907 | 🐛 12 | 🌐 HTML | 📅 2026-11-15 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[free for dev](https://github.com/ripienaar/free-for-dev) ⭐ 142,998 | 🐛 12 | 🌐 HTML | 📅 2026-11-16 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) ⭐ 1,711 | 🐛 2 | 📅 2024-04-18 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
+[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) ⭐ 1,714 | 🐛 2 | 📅 2024-04-18 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
 
-[awesome](https://github.com/sindresorhus/awesome) ⭐ 537,330 | 🐛 104 | 📅 2026-09-02 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[awesome](https://github.com/sindresorhus/awesome) ⭐ 537,935 | 🐛 104 | 📅 2026-09-02 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 # Contents
 
@@ -29,13 +29,13 @@ Feel free to send a PR :)
 
 ## Source Code Repos
 
-* [Gogs](https://github.com/gogits/gogs) ⭐ 47,940 | 🐛 853 | 🌐 Go | 📅 2026-11-15  - A painless self-hosted Git Service
+* [Gogs](https://github.com/gogits/gogs) ⭐ 47,939 | 🐛 851 | 🌐 Go | 📅 2026-11-16  - A painless self-hosted Git Service
 * [GitLab](https://github.com/gitlabhq/gitlabhq) ⭐ 24,566 | 🐛 36 | 🌐 Ruby | 📅 2026-10-23 - Version control for your server
 * [Package Drone](https://github.com/eclipse/packagedrone) ⚠️ Archived - A package manager repository for OSGi, Java and more
 
 ## IDE
 
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 195,393 | 🐛 21,541 | 🌐 TypeScript | 📅 2026-11-15 - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 195,463 | 🐛 21,605 | 🌐 TypeScript | 📅 2026-11-16 - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
 * [Atom](https://github.com/atom/atom) ⚠️ Archived - Opensource,fully-featured,hackable text editor for coding.
 * [Brackets](https://github.com/adobe/brackets) ⚠️ Archived -  A modern and open-source code editor for HTML, CSS and JavaScript.
 * [CodeBox](https://github.com/CodeboxIDE/codebox) ⭐ 4,150 | 🐛 153 | 🌐 JavaScript | 📅 2023-10-17 - Open source cloud & desktop IDE
@@ -44,30 +44,30 @@ Feel free to send a PR :)
 
 ## File Management
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 84,211 | 🐛 333 | 🌐 Go | 📅 2026-11-12 - Fuzzy find anything in your directories.
-* [Bat](https://github.com/sharkdp/bat) ⭐ 61,263 | 🐛 568 | 🌐 Rust | 📅 2026-11-15 - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
-* [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,945 | 🐛 27 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
-* [Clifm](https://github.com/leo-arch/clifm) ⭐ 1,736 | 🐛 27 | 🌐 C | 📅 2026-11-15 - The terminal is always in your reach when managing your files.
-* [Glim](https://github.com/NeoPanic/Glim) ⭐ 45 | 🐛 24 | 🌐 Rust | 📅 2026-11-14 - MIT-licensed macOS file viewer for Markdown, source code, JSON and CSV, with read-only PDF/Office previews and basic UTF-8 text editing.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 84,225 | 🐛 334 | 🌐 Go | 📅 2026-11-12 - Fuzzy find anything in your directories.
+* [Bat](https://github.com/sharkdp/bat) ⭐ 61,285 | 🐛 566 | 🌐 Rust | 📅 2026-11-16 - The fancy `cat` with syntax highlighting and effortless fuzzy searching to save development time.
+* [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,946 | 🐛 27 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anywhere, anytime, all from the terminal.
+* [Clifm](https://github.com/leo-arch/clifm) ⭐ 1,736 | 🐛 26 | 🌐 C | 📅 2026-11-15 - The terminal is always in your reach when managing your files.
+* [Glim](https://github.com/NeoPanic/Glim) ⭐ 45 | 🐛 23 | 🌐 Rust | 📅 2026-11-16 - MIT-licensed macOS file viewer for Markdown, source code, JSON and CSV, with read-only PDF/Office previews and basic UTF-8 text editing.
 
 ## Collaboration Tools
 
 * [lets chat](https://github.com/sdelements/lets-chat) ⚠️ Archived - Self-hosted chat app for small teams
 * [ssh chat](https://github.com/shazow/ssh-chat) ⭐ 5,919 | 🐛 54 | 🌐 Go | 📅 2026-01-10 - Chat over SSH
-* [SparkleShare](https://github.com/hbons/SparkleShare) ⭐ 5,002 | 🐛 69 | 🌐 C# | 📅 2026-11-15 - An Open Source collaboration and sharing tool
+* [SparkleShare](https://github.com/hbons/SparkleShare) ⭐ 5,004 | 🐛 69 | 🌐 C# | 📅 2026-11-15 - An Open Source collaboration and sharing tool
 * [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...).
 * [ownCloud](https://owncloud.org) - Open Source file sync & share, with calendar, contacts and more apps
 * [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform
 
 ## Code Quality
 
-* [sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 11,182 | 🐛 1 | 🌐 Java | 📅 2026-11-13 - Put your technical debt under control
+* [sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 11,185 | 🐛 1 | 🌐 Java | 📅 2026-11-16 - Put your technical debt under control
 * [gerrit](https://gerrit.googlesource.com/) - Code Review
 * [Codecov](https://codecov.io/) - Continuous Code Coverage
 
 ## CI / CD
 
-* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,775 | 🐛 3,622 | 🌐 Java | 📅 2026-11-15 - open-source continuous integration server
+* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,780 | 🐛 3,615 | 🌐 Java | 📅 2026-11-16 - open-source continuous integration server
 * [Travis CI](https://github.com/travis-ci/travis-ci) ⭐ 8,480 | 🐛 126 | 📅 2024-06-04 - Free continuous integration platform for GitHub projects
 * [cucumber](https://github.com/cucumber/cucumber) ⭐ 3,351 | 🐛 41 | 📅 2026-05-17 - Simple, human collaboration
 * [drone.io](https://drone.io) - Open Source CI platform
@@ -75,11 +75,11 @@ Feel free to send a PR :)
 
 ## Feature management
 
-* [Unleash](https://github.com/Unleash/unleash) ⭐ 14,327 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-13 - Free open-source feature flag & toggle service. SDKs for all major languages.
+* [Unleash](https://github.com/Unleash/unleash) ⭐ 14,328 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-16 - Free open-source feature flag & toggle service. SDKs for all major languages.
 
 ## Security and PKI
 
-* [OpenXPKI](https://github.com/openxpki/openxpki) ⭐ 703 | 🐛 75 | 🌐 Perl | 📅 2026-09-26 - an enterprise-grade PKI/Trustcenter software
+* [OpenXPKI](https://github.com/openxpki/openxpki) ⭐ 704 | 🐛 72 | 🌐 Perl | 📅 2026-11-16 - an enterprise-grade PKI/Trustcenter software
 * [Selefra](https://github.com/selefra/selefra) ⭐ 547 | 🐛 0 | 🌐 Go | 📅 2023-08-30 - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 * [Ralasafe](http://sourceforge.net/projects/ralasafe/) - Access Control Middleware
 
@@ -92,13 +92,13 @@ Feel free to send a PR :)
 
 ## Project management
 
-* [Phabricator](https://github.com/phacility/phabricator) ⭐ 12,284 | 🐛 3 | 🌐 PHP | 📅 2026-11-01 - an open source collection of web applications which help software companies build better software
-* [Redmine](https://github.com/redmine/redmine) ⭐ 6,082 | 🐛 3 | 🌐 Ruby | 📅 2026-11-13 - a flexible project management web application written using Ruby on Rails
+* [Phabricator](https://github.com/phacility/phabricator) ⭐ 12,283 | 🐛 3 | 🌐 PHP | 📅 2026-11-01 - an open source collection of web applications which help software companies build better software
+* [Redmine](https://github.com/redmine/redmine) ⭐ 6,084 | 🐛 3 | 🌐 Ruby | 📅 2026-11-16 - a flexible project management web application written using Ruby on Rails
 * [Taiga.io](https://github.com/taigaio) - Your Agile, Free and Open Source Project Management Tool
 
 ## PaaS
 
-* [OpenShift](https://github.com/openshift/origin) ⭐ 8,695 | 🐛 314 | 🌐 Go | 📅 2026-11-13 - build, deploy, and manage your applications with Docker and Kubernetes
+* [OpenShift](https://github.com/openshift/origin) ⭐ 8,695 | 🐛 314 | 🌐 Go | 📅 2026-11-16 - build, deploy, and manage your applications with Docker and Kubernetes
 * [Preevy](https://github.com/livecycle/preevy) ⭐ 2,241 | 🐛 51 | 🌐 TypeScript | 📅 2026-02-06 - Provision preview environments for docker compose applications with minimal configuration
 * [Zeabur](https://zeabur.com) - deploy your full stack apps and databases with one click
 
@@ -130,4 +130,4 @@ Feel free to send a PR :)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
